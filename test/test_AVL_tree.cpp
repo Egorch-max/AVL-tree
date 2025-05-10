@@ -1,4 +1,4 @@
-#include "AVL_tree.h"
+#include "AVL_Tree.h"
 #include <gtest.h>
 
 class AVL_tree_test : public ::testing::Test
